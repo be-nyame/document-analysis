@@ -1,4 +1,4 @@
-# Document Analysis
+## Document Analysis
 
 ### Topic Modeling with Linear Discriminant Analysis (LDA)
 Given a corpus, the topic model (LDA) learns topics, and analyze the representative terms of each topic.

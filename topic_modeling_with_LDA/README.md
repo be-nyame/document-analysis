@@ -4,6 +4,6 @@
   Windows 10
 
 - ### Requirements
-  python 3.6
+  python 3.6 <br>
   gensim
 

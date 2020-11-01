@@ -1,6 +1,6 @@
 ## Document Analysis
 
-### Topic Modeling with Linear Discriminant Analysis (LDA)
+### Topic Modeling with Latent Dirichlet Allocation (LDA)
 Given a corpus, the topic model (LDA) learns topics, and analyzes the representative terms of each topic.
 
 ### Sentiment Analysis with Long Short Term Memory (LSTM)
